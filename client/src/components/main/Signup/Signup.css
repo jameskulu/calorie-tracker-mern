@@ -1,0 +1,14 @@
+.signup1 img{
+    width: 500px;
+    padding: 50px;
+    height: 890px
+}
+
+label{
+ float: left;
+}
+@media only screen and (max-width: 993px) {
+    .signup1{
+        display: none;
+    }
+  }

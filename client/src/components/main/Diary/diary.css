@@ -1,0 +1,20 @@
+.diary{
+    width: 100%;
+    height: 100px;
+    margin-top: 40px;
+}
+
+.diary .inner-diary{
+    width: 90%;
+    margin: auto;
+}
+
+.diary .inner-diary table th{
+    text-align: center;
+}
+
+.diary .inner-diary table td{
+    text-align: center;
+    vertical-align : middle;
+}
+
